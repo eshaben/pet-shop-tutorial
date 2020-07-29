@@ -1,2 +1,2 @@
 # pet-shop-tutorial
-truffle tutorial
+tutorial
